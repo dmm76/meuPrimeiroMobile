@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\bin\Debug\netstandard2.0\AppJogo.deps.json
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\bin\Debug\netstandard2.0\AppJogo.dll
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\bin\Debug\netstandard2.0\AppJogo.pdb
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\AppJogo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\AppJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\AppJogo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\AppJogo.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\AppJogo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\AppJogo.dll
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\refint\AppJogo.dll
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\AppJogo.pdb
+C:\Users\Aluno\Documents\GitHub\meuPrimeiroMobile\AppJogo\AppJogo\obj\Debug\netstandard2.0\ref\AppJogo.dll

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppJogo.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="1 - 5" HorizontalTextAlignment="Center" TextColor="White" FontSize="50" FontAttributes="Bold"/>
+        </Frame>
+        <Entry Placeholder="Digite um numero de 1 - 5" x:Name="txtNumero" Margin="20" Keyboard="Numeric"/>
+        <StackLayout Orientation="Horizontal">
+        <Button Text="Jogar" BackgroundColor="SteelBlue" TextColor="White" FontAttributes="Bold" FontSize="Large" CornerRadius="25" HorizontalOptions="CenterAndExpand" x:Name="btnJogar"/>
+        <Label Text="" Margin="20" TextColor="LightGreen" FontSize="40" FontAttributes="Bold" x:Name="lblResultado"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
